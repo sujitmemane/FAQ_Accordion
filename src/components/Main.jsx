@@ -62,7 +62,7 @@ function mainToggleHandler(id){
 setQuestions(updatedQuestions)
 }
   return (
-    <section className='mx-auto w-10/12  bg-white  rounded-lg  mx-48 '>
+    <section className='mx-auto w-10/12  bg-white  rounded-lg  my-48 '>
       <div className="md:flex md:flex-row md:justify-between md:items-center md:px-8 md:py-14">
         <div className='md:w-1/2'>
         <img src={mainPhone} alt='Phone_Main_Image'  className='md:hidden p-4 -mt-38'/>
